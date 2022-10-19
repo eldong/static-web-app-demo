@@ -3,8 +3,10 @@
       {
         "route": "/page1.html",
         "allowedRoles": ["authenticated"],
+      },
+      {
         "route": "/index.html",
-        "allowedRoles": ["anonymous"]
+          "allowedRoles": ["anonymous"]
       }
     ],
     "responseOverrides": {
