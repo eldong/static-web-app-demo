@@ -2,7 +2,7 @@
     "routes": [
       {
         "route": "/page1.html",
-        "allowedRoles": ["authenticated"]
+        "allowedRoles": ["authenticated"],
         "route": "/*",
         "allowedRoles": ["anonymous"]
       }
