@@ -3,7 +3,7 @@
       {
         "route": "/page1.html",
         "allowedRoles": ["authenticated"],
-        "route": "/*",
+        "route": "/index.html",
         "allowedRoles": ["anonymous"]
       }
     ],
